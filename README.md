@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manasa-chary
-- 👀 I’m interested in Python problem solving
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in Python,java with OOPs problem solving
+- 🌱 I’m currently learning AI/ML,Data science 
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 How to reach me [@manasa-chary](https://www.linkedin.com/in/manasa-chary/)
 - 😄 Pronouns: SHE | HER
